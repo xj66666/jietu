@@ -1,0 +1,42 @@
+[
+  {
+    "target": "taobao",
+    "viewport": "1440",
+    "comparedSize": {
+      "w": 590,
+      "h": 1278
+    },
+    "sizeA": {
+      "w": 590,
+      "h": 1278
+    },
+    "sizeB": {
+      "w": 590,
+      "h": 1278
+    },
+    "diffPixels": 47,
+    "totalPixels": 754020,
+    "diffRatio": 0.00006,
+    "worstRows": []
+  },
+  {
+    "target": "taobao",
+    "viewport": "390",
+    "comparedSize": {
+      "w": 590,
+      "h": 1278
+    },
+    "sizeA": {
+      "w": 590,
+      "h": 1278
+    },
+    "sizeB": {
+      "w": 590,
+      "h": 1278
+    },
+    "diffPixels": 0,
+    "totalPixels": 754020,
+    "diffRatio": 0,
+    "worstRows": []
+  }
+]

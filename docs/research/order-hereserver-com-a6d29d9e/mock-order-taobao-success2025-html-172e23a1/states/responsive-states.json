@@ -1,0 +1,289 @@
+{
+  "390": {
+    "nav": {
+      "display": "block",
+      "position": "static",
+      "width": "390px",
+      "w": 390,
+      "visible": true,
+      "overflowY": "visible",
+      "height": "57px"
+    },
+    "navSidebar": {
+      "display": "none",
+      "position": "static",
+      "width": "auto",
+      "w": 0,
+      "visible": false,
+      "overflowY": "visible",
+      "height": "auto"
+    },
+    "screenCt": {
+      "display": "block",
+      "position": "relative",
+      "width": "390px",
+      "w": 390,
+      "visible": true,
+      "overflowY": "visible",
+      "height": "1278px"
+    },
+    "editor": {
+      "display": "block",
+      "position": "static",
+      "width": "390px",
+      "w": 390,
+      "visible": true,
+      "overflowY": "auto",
+      "height": "2766px"
+    },
+    "mobileToggleVisible": true,
+    "rowFlexDirection": "row",
+    "bodyScrollWidth": 390
+  },
+  "640": {
+    "nav": {
+      "display": "block",
+      "position": "static",
+      "width": "640px",
+      "w": 640,
+      "visible": true,
+      "overflowY": "visible",
+      "height": "57px"
+    },
+    "navSidebar": {
+      "display": "none",
+      "position": "static",
+      "width": "auto",
+      "w": 0,
+      "visible": false,
+      "overflowY": "visible",
+      "height": "auto"
+    },
+    "screenCt": {
+      "display": "block",
+      "position": "relative",
+      "width": "640px",
+      "w": 640,
+      "visible": true,
+      "overflowY": "visible",
+      "height": "1278px"
+    },
+    "editor": {
+      "display": "block",
+      "position": "static",
+      "width": "640px",
+      "w": 640,
+      "visible": true,
+      "overflowY": "auto",
+      "height": "2742px"
+    },
+    "mobileToggleVisible": true,
+    "rowFlexDirection": "row",
+    "bodyScrollWidth": 640
+  },
+  "767": {
+    "nav": {
+      "display": "block",
+      "position": "static",
+      "width": "767px",
+      "w": 767,
+      "visible": true,
+      "overflowY": "visible",
+      "height": "57px"
+    },
+    "navSidebar": {
+      "display": "none",
+      "position": "static",
+      "width": "auto",
+      "w": 0,
+      "visible": false,
+      "overflowY": "visible",
+      "height": "auto"
+    },
+    "screenCt": {
+      "display": "block",
+      "position": "relative",
+      "width": "767px",
+      "w": 767,
+      "visible": true,
+      "overflowY": "visible",
+      "height": "1278px"
+    },
+    "editor": {
+      "display": "block",
+      "position": "static",
+      "width": "767px",
+      "w": 767,
+      "visible": true,
+      "overflowY": "auto",
+      "height": "2742px"
+    },
+    "mobileToggleVisible": true,
+    "rowFlexDirection": "row",
+    "bodyScrollWidth": 767
+  },
+  "768": {
+    "nav": {
+      "display": "block",
+      "position": "sticky",
+      "width": "768px",
+      "w": 768,
+      "visible": true,
+      "overflowY": "visible",
+      "height": "57px"
+    },
+    "navSidebar": {
+      "display": "block",
+      "position": "sticky",
+      "width": "256px",
+      "w": 256,
+      "visible": true,
+      "overflowY": "auto",
+      "height": "840px"
+    },
+    "screenCt": {
+      "display": "block",
+      "position": "relative",
+      "width": "589.5px",
+      "w": 589.5,
+      "visible": true,
+      "overflowY": "visible",
+      "height": "1278px"
+    },
+    "editor": {
+      "display": "block",
+      "position": "sticky",
+      "width": "384px",
+      "w": 384,
+      "visible": true,
+      "overflowY": "auto",
+      "height": "840px"
+    },
+    "mobileToggleVisible": false,
+    "rowFlexDirection": "row",
+    "bodyScrollWidth": 1294
+  },
+  "900": {
+    "nav": {
+      "display": "block",
+      "position": "sticky",
+      "width": "900px",
+      "w": 900,
+      "visible": true,
+      "overflowY": "visible",
+      "height": "57px"
+    },
+    "navSidebar": {
+      "display": "block",
+      "position": "sticky",
+      "width": "256px",
+      "w": 256,
+      "visible": true,
+      "overflowY": "auto",
+      "height": "840px"
+    },
+    "screenCt": {
+      "display": "block",
+      "position": "relative",
+      "width": "589.5px",
+      "w": 589.5,
+      "visible": true,
+      "overflowY": "visible",
+      "height": "1278px"
+    },
+    "editor": {
+      "display": "block",
+      "position": "sticky",
+      "width": "384px",
+      "w": 384,
+      "visible": true,
+      "overflowY": "auto",
+      "height": "840px"
+    },
+    "mobileToggleVisible": false,
+    "rowFlexDirection": "row",
+    "bodyScrollWidth": 1294
+  },
+  "1024": {
+    "nav": {
+      "display": "block",
+      "position": "sticky",
+      "width": "1024px",
+      "w": 1024,
+      "visible": true,
+      "overflowY": "visible",
+      "height": "57px"
+    },
+    "navSidebar": {
+      "display": "block",
+      "position": "sticky",
+      "width": "256px",
+      "w": 256,
+      "visible": true,
+      "overflowY": "auto",
+      "height": "840px"
+    },
+    "screenCt": {
+      "display": "block",
+      "position": "relative",
+      "width": "589.5px",
+      "w": 589.5,
+      "visible": true,
+      "overflowY": "visible",
+      "height": "1278px"
+    },
+    "editor": {
+      "display": "block",
+      "position": "sticky",
+      "width": "384px",
+      "w": 384,
+      "visible": true,
+      "overflowY": "auto",
+      "height": "840px"
+    },
+    "mobileToggleVisible": false,
+    "rowFlexDirection": "row",
+    "bodyScrollWidth": 1294
+  },
+  "1440": {
+    "nav": {
+      "display": "block",
+      "position": "sticky",
+      "width": "1440px",
+      "w": 1440,
+      "visible": true,
+      "overflowY": "visible",
+      "height": "57px"
+    },
+    "navSidebar": {
+      "display": "block",
+      "position": "sticky",
+      "width": "256px",
+      "w": 256,
+      "visible": true,
+      "overflowY": "auto",
+      "height": "840px"
+    },
+    "screenCt": {
+      "display": "block",
+      "position": "relative",
+      "width": "589.5px",
+      "w": 589.5,
+      "visible": true,
+      "overflowY": "visible",
+      "height": "1278px"
+    },
+    "editor": {
+      "display": "block",
+      "position": "sticky",
+      "width": "384px",
+      "w": 384,
+      "visible": true,
+      "overflowY": "auto",
+      "height": "840px"
+    },
+    "mobileToggleVisible": false,
+    "rowFlexDirection": "row",
+    "bodyScrollWidth": 1440
+  }
+}

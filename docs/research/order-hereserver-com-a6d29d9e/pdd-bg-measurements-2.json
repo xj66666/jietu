@@ -1,0 +1,107 @@
+{
+  "shipRow": {
+    "x": 19,
+    "y": 1080,
+    "w": 88,
+    "h": 20,
+    "right": 107,
+    "bottom": 1100
+  },
+  "moreText": {
+    "x": 119,
+    "y": 1176,
+    "w": 45,
+    "h": 22,
+    "right": 164,
+    "bottom": 1198
+  },
+  "invoiceBtn": {
+    "x": 206,
+    "y": 1164,
+    "w": 114,
+    "h": 49,
+    "right": 320,
+    "bottom": 1213
+  },
+  "logisticsBtn": {
+    "x": 332,
+    "y": 1164,
+    "w": 114,
+    "h": 49,
+    "right": 446,
+    "bottom": 1213
+  },
+  "confirmBtn": {
+    "x": 458,
+    "y": 1164,
+    "w": 113,
+    "h": 49,
+    "right": 571,
+    "bottom": 1213
+  },
+  "outlineBorderColor": [
+    255,
+    255,
+    255
+  ],
+  "outlineFill": [
+    108,
+    108,
+    108
+  ],
+  "redFill": [
+    224,
+    46,
+    36
+  ],
+  "cornerProbe": [
+    {
+      "dy": 0,
+      "firstX": 3
+    },
+    {
+      "dy": 1,
+      "firstX": 2
+    },
+    {
+      "dy": 2,
+      "firstX": 1
+    },
+    {
+      "dy": 3,
+      "firstX": 0
+    },
+    {
+      "dy": 4,
+      "firstX": 0
+    },
+    {
+      "dy": 5,
+      "firstX": 0
+    },
+    {
+      "dy": 6,
+      "firstX": 0
+    },
+    {
+      "dy": 7,
+      "firstX": 0
+    },
+    {
+      "dy": 8,
+      "firstX": 0
+    },
+    {
+      "dy": 9,
+      "firstX": 0
+    },
+    {
+      "dy": 10,
+      "firstX": 0
+    },
+    {
+      "dy": 11,
+      "firstX": 0
+    }
+  ]
+}

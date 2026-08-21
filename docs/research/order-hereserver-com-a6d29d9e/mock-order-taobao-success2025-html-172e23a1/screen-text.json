@@ -1,0 +1,326 @@
+[
+  {
+    "depth": 3,
+    "text": "交易成功",
+    "parentTag": "div",
+    "parentClass": "font-medium text-3xl"
+  },
+  {
+    "depth": 5,
+    "text": "已签收",
+    "parentTag": "span",
+    "parentClass": "border-r-[2px] border-[#e5e7eb] pr-[9px]"
+  },
+  {
+    "depth": 4,
+    "text": "王小花 86-189****3501 送至 华阳...",
+    "parentTag": "span",
+    "parentClass": "text-black text-[22px] truncate w-[404px]"
+  },
+  {
+    "depth": 6,
+    "text": "苹果官方旗舰店",
+    "parentTag": "div",
+    "parentClass": "font-medium text-[20px] max-w-[360px] max-h-[26px] overflow-hidden"
+  },
+  {
+    "depth": 6,
+    "text": "88VIP好评率97%，客服平均16秒回复",
+    "parentTag": "div",
+    "parentClass": "text-[18px] text-gray-500 mt-0.5"
+  },
+  {
+    "depth": 4,
+    "text": "进店逛逛",
+    "parentTag": "a",
+    "parentClass": "text-[18px] text-[#7b889d] flex items-center"
+  },
+  {
+    "depth": 7,
+    "text": "苹果 iPhone 14 Pro 128GB 星夜黑 移动联通电信5G手机 双卡双待",
+    "parentTag": "div",
+    "parentClass": "leading-5 flex-1 pr-2 text-[20px] h-[20px] overflow-hidden"
+  },
+  {
+    "depth": 8,
+    "text": "¥",
+    "parentTag": "span",
+    "parentClass": "text-[20px]"
+  },
+  {
+    "depth": 7,
+    "text": "2999",
+    "parentTag": "div",
+    "parentClass": "font-medium text-[20px] tracking-tighter"
+  },
+  {
+    "depth": 8,
+    "text": ".01",
+    "parentTag": "span",
+    "parentClass": "text-[16px]"
+  },
+  {
+    "depth": 7,
+    "text": "黑色 128G",
+    "parentTag": "div",
+    "parentClass": "leading-5 text-[19px] h-[19px] overflow-hidden"
+  },
+  {
+    "depth": 7,
+    "text": "¥6.93",
+    "parentTag": "div",
+    "parentClass": "text-[17px] text-gray-400 tracking-tighter"
+  },
+  {
+    "depth": 8,
+    "text": "极速退款 7天无理由退换",
+    "parentTag": "span",
+    "parentClass": ""
+  },
+  {
+    "depth": 7,
+    "text": "x1",
+    "parentTag": "div",
+    "parentClass": "text-[17px]"
+  },
+  {
+    "depth": 5,
+    "text": "闲鱼转卖",
+    "parentTag": "button",
+    "parentClass": "bg-[#f2f4f5] rounded-lg text-gray-700 w-[122px] h-[48px] text-[19px]"
+  },
+  {
+    "depth": 5,
+    "text": "申请售后",
+    "parentTag": "button",
+    "parentClass": "bg-[#f2f4f5] rounded-lg text-gray-700 w-[122px] h-[48px] text-[19px]"
+  },
+  {
+    "depth": 5,
+    "text": "加入购物车",
+    "parentTag": "button",
+    "parentClass": "bg-[#feeee5] text-[#fe3b00] rounded-lg font-medium w-[122px] h-[48px] text-[19px]"
+  },
+  {
+    "depth": 6,
+    "text": "实付款",
+    "parentTag": "span",
+    "parentClass": "font-medium mr-2"
+  },
+  {
+    "depth": 6,
+    "text": "共减¥",
+    "parentTag": "span",
+    "parentClass": "text-[#fb7730]"
+  },
+  {
+    "depth": 6,
+    "text": "10.01",
+    "parentTag": "span",
+    "parentClass": "text-[#fb7730] font-bold text-[28px] tracking-tighter"
+  },
+  {
+    "depth": 7,
+    "text": "¥",
+    "parentTag": "span",
+    "parentClass": "text-[25px]"
+  },
+  {
+    "depth": 6,
+    "text": "1998",
+    "parentTag": "span",
+    "parentClass": ""
+  },
+  {
+    "depth": 6,
+    "text": ".01",
+    "parentTag": "span",
+    "parentClass": "text-[22px] relative top-[2px]"
+  },
+  {
+    "depth": 5,
+    "text": "订单信息",
+    "parentTag": "span",
+    "parentClass": ""
+  },
+  {
+    "depth": 5,
+    "text": "2025-11-13",
+    "parentTag": "span",
+    "parentClass": "ml-[10px] text-[#888888] text-xl font-normal"
+  },
+  {
+    "depth": 5,
+    "text": "收起",
+    "parentTag": "span",
+    "parentClass": "text-[#888888] pl-[5px]"
+  },
+  {
+    "depth": 4,
+    "text": "订单编号",
+    "parentTag": "span",
+    "parentClass": ""
+  },
+  {
+    "depth": 4,
+    "text": "4146218899498929838",
+    "parentTag": "span",
+    "parentClass": "text-[#888888]"
+  },
+  {
+    "depth": 5,
+    "text": "复制",
+    "parentTag": "span",
+    "parentClass": "text-black border-l-[2px] border-[#e5e7eb] pl-[5px]"
+  },
+  {
+    "depth": 4,
+    "text": "交易快照",
+    "parentTag": "span",
+    "parentClass": ""
+  },
+  {
+    "depth": 4,
+    "text": "发生交易争议时，可作为判断依据",
+    "parentTag": "span",
+    "parentClass": "w-[354px] text-right text-[#888888]"
+  },
+  {
+    "depth": 4,
+    "text": "成交时间",
+    "parentTag": "span",
+    "parentClass": ""
+  },
+  {
+    "depth": 4,
+    "text": "2025-11-23 08:37:47",
+    "parentTag": "span",
+    "parentClass": "w-[354px] text-right text-[#888888] time-h"
+  },
+  {
+    "depth": 4,
+    "text": "发货时间",
+    "parentTag": "span",
+    "parentClass": ""
+  },
+  {
+    "depth": 4,
+    "text": "2025-11-13 08:37:38",
+    "parentTag": "span",
+    "parentClass": "w-[354px] text-right text-[#888888] time-h"
+  },
+  {
+    "depth": 4,
+    "text": "付款时间",
+    "parentTag": "span",
+    "parentClass": ""
+  },
+  {
+    "depth": 4,
+    "text": "2025-11-13 01:13:47",
+    "parentTag": "span",
+    "parentClass": "w-[354px] text-right text-[#888888] time-h"
+  },
+  {
+    "depth": 4,
+    "text": "创建时间",
+    "parentTag": "span",
+    "parentClass": ""
+  },
+  {
+    "depth": 4,
+    "text": "2025-11-13 01:13:40",
+    "parentTag": "span",
+    "parentClass": "w-[354px] text-right text-[#888888] time-h"
+  },
+  {
+    "depth": 4,
+    "text": "支付宝交易号",
+    "parentTag": "span",
+    "parentClass": ""
+  },
+  {
+    "depth": 4,
+    "text": "7582948447678261996699521772",
+    "parentTag": "span",
+    "parentClass": "text-[#888888]"
+  },
+  {
+    "depth": 5,
+    "text": "收货信息",
+    "parentTag": "span",
+    "parentClass": ""
+  },
+  {
+    "depth": 4,
+    "text": "王**, 86-181****3509, 浙江省 杭州市 余杭区 万科园区 **********",
+    "parentTag": "span",
+    "parentClass": "w-[354px] text-right text-[#888888]"
+  },
+  {
+    "depth": 6,
+    "text": "客服",
+    "parentTag": "span",
+    "parentClass": "text-[16px] mt-1"
+  },
+  {
+    "depth": 6,
+    "text": "更多",
+    "parentTag": "span",
+    "parentClass": "text-[16px] mt-1"
+  },
+  {
+    "depth": 5,
+    "text": "闲鱼转卖",
+    "parentTag": "button",
+    "parentClass": "py-2 bg-[#f2f4f5] rounded-lg text-gray-700 w-[133px] h-[52px] text-[19px]"
+  },
+  {
+    "depth": 5,
+    "text": "加入购物车",
+    "parentTag": "button",
+    "parentClass": "py-2 bg-[#f2f4f5] rounded-lg text-gray-700 w-[133px] h-[52px] text-[19px]"
+  },
+  {
+    "depth": 5,
+    "text": "再买一单",
+    "parentTag": "button",
+    "parentClass": "py-2 bg-[#ff6303] text-white rounded-lg font-medium w-[133px] h-[52px] text-[19px]"
+  },
+  {
+    "depth": 3,
+    "text": "19:51",
+    "parentTag": "span",
+    "parentClass": "ios-time ml-4 text-[25px] font-semibold my-[7.5px]"
+  },
+  {
+    "depth": 3,
+    "text": "定位",
+    "parentTag": "span",
+    "parentClass": "ios-location block w-[21px] h-[21px] mr-[7.5px] relative left-[10px] indent-[-9999px] bg-cover ios-location-icon-v2"
+  },
+  {
+    "depth": 3,
+    "text": "wifi",
+    "parentTag": "span",
+    "parentClass": "ios_wifi ml-[5.5px] w-[32.5px] h-[20.5px] indent-[-9999px] bg-cover ios-wifi-icon-v2"
+  },
+  {
+    "depth": 5,
+    "text": "电量",
+    "parentTag": "em",
+    "parentClass": "flex-1 z-11 indent-[-9999px] battery-value"
+  },
+  {
+    "depth": 5,
+    "text": "54",
+    "parentTag": "i",
+    "parentClass": "flex items-center justify-center absolute w-full h-full text-[15px] font-semibold text-white not-italic battery-value-number z-10"
+  },
+  {
+    "depth": 4,
+    "text": "19:51",
+    "parentTag": "div",
+    "parentClass": "font-semibold text-2xl"
+  }
+]

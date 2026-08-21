@@ -1,0 +1,64 @@
+{
+  "count": 2,
+  "items": [
+    {
+      "text": "点击这里使用支付宝登录以获得完整功能",
+      "rootStyle": "pointer-events: none; z-index: 9999; visibility: visible; position: absolute; inset: 0px auto auto 0px; margin: 0px; transform: translate(967px, 94px);",
+      "placement": "bottom",
+      "html": "<div data-tippy-root=\"\" id=\"tippy-1\" style=\"pointer-events: none; z-index: 9999; visibility: visible; position: absolute; inset: 0px auto auto 0px; margin: 0px; transform: translate(967px, 94px);\"><div class=\"tippy-box\" data-state=\"visible\" tabindex=\"-1\" data-theme=\"light\" data-animation=\"fade\" role=\"tooltip\" data-placement=\"bottom\" style=\"max-width: 350px; transition-duration: 300ms;\"><div class=\"tippy-content\" data-state=\"visible\" style=\"transition-duration: 300ms;\">点击这里使用支付宝登录以获得完整功能</div><div class=\"tippy-arrow\" style=\"position: absolute; left: 0px; transform: translate(127px, 0px);\"></div></div></div>",
+      "css": {
+        "backgroundColor": "rgb(51, 51, 51)",
+        "color": "rgb(255, 255, 255)",
+        "fontSize": "14px",
+        "borderRadius": "4px",
+        "padding": "0px",
+        "lineHeight": "19.6px",
+        "fontWeight": "400"
+      },
+      "rectRelativeToScreen": {
+        "x": 671,
+        "y": 37,
+        "w": 270,
+        "h": 29.6
+      }
+    },
+    {
+      "text": "截图仅用于玩笑晒单,切勿用于非法目的",
+      "rootStyle": "pointer-events: none; z-index: 9999; visibility: visible; position: absolute; inset: 0px 0px auto auto; margin: 0px; transform: translate(-540px, 465px);",
+      "placement": "left",
+      "html": "<div data-tippy-root=\"\" id=\"tippy-2\" style=\"pointer-events: none; z-index: 9999; visibility: visible; position: absolute; inset: 0px 0px auto auto; margin: 0px; transform: translate(-540px, 465px);\"><div class=\"tippy-box\" data-state=\"visible\" tabindex=\"-1\" data-theme=\"light\" data-animation=\"fade\" role=\"tooltip\" data-placement=\"left\" style=\"max-width: 350px; transition-duration: 300ms;\"><div class=\"tippy-content\" data-state=\"visible\" style=\"transition-duration: 300ms;\">截图仅用于玩笑晒单,切勿用于非法目的</div><div class=\"tippy-arrow\" style=\"position: absolute; top: 0px; transform: translate(0px, 7px);\"></div></div></div>",
+      "css": {
+        "backgroundColor": "rgb(51, 51, 51)",
+        "color": "rgb(255, 255, 255)",
+        "fontSize": "14px",
+        "borderRadius": "4px",
+        "padding": "0px",
+        "lineHeight": "19.6px",
+        "fontWeight": "400"
+      },
+      "rectRelativeToScreen": {
+        "x": 343.8,
+        "y": 408,
+        "w": 260.2,
+        "h": 29.6
+      }
+    }
+  ],
+  "tippyStyleTag": ".tippy-box[data-animation=fade][data-state=hidden]{opacity:0}[data-tippy-root]{max-width:calc(100vw - 10px)}.tippy-box{position:relative;background-color:#333;color:#fff;border-radius:4px;font-size:14px;line-height:1.4;white-space:normal;outline:0;transition-property:transform,visibility,opacity}.tippy-box[data-placement^=top]>.tippy-arrow{bottom:0}.tippy-box[data-placement^=top]>.tippy-arrow:before{bottom:-7px;left:0;border-width:8px 8px 0;border-top-color:initial;transform-origin:center top}.tippy-box[data-placement^=bottom]>.tippy-arrow{top:0}.tippy-box[data-placement^=bottom]>.tippy-arrow:before{top:-7px;left:0;border-width:0 8px 8px;border-bottom-color:initial;transform-origin:center bottom}.tippy-box[data-placement^=left]>.tippy-arrow{right:0}.tippy-box[data-placement^=left]>.tippy-arrow:before{border-width:8px 0 8px 8px;border-left-color:initial;right:-7px;transform-origin:center left}.tippy-box[data-placement^=right]>.tippy-arrow{left:0}.tippy-box[data-placement^=right]>.tippy-arrow:before{left:-7px;border-width:8px 8px 8px 0;border-right-color:initial;transform-origin:center right}.tippy-box[data-inertia][data-state=visible]{transition-timing-function:cubic-bezier(.54,1.5,.38,1.11)}.tippy-arrow{width:16px;height:16px;color:#333}.tippy-arrow:before{content:\"\";position:absolute;border-color:transparent;border-style:solid}.tippy-content{position:relative;padding:5px 9px;z-index:1}",
+  "referenced": [
+    {
+      "tag": "DIV",
+      "cls": "sidebar md:w-96 md:min-w-[384px] md:sticky md:top-[60px] md:h-[calc(100vh-60px)] md:overflow-y-auto scrollbar-hide max-m",
+      "id": "editor-ct",
+      "content": null,
+      "text": "| 登出请登录后使用 生成截图 导出 更新 生成器助手 输入淘宝京东详情页链接后自动填写,如已安装完"
+    },
+    {
+      "tag": "DIV",
+      "cls": "user-container justify-center",
+      "id": "",
+      "content": null,
+      "text": "| 登出请登录后使用"
+    }
+  ]
+}

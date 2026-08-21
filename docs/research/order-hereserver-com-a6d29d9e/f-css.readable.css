@@ -1,0 +1,394 @@
+@font-face {
+  font-family: 'SF Pro';
+  font-style: normal;
+  font-weight: 600;
+  src: url(./sf-pro-text_semibold.a0c74f8f.woff2) format("woff2")
+}
+@font-face {
+  font-family: 'SF Pro';
+  font-style: normal;
+  font-weight: 500;
+  src: url(./sf-pro-text_medium.dcc28d6a.woff2) format("woff2")
+}
+@font-face {
+  font-family: 'SF Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: url(./sf-pro-text_regular.07bdfc6e.woff2) format("woff2")
+}
+@font-face {
+  font-family: WeChatNum;
+  font-style: normal;
+  font-weight: 400;
+  src: url(./WeChatNum.04b083e1.ttf)
+}
+/* 苹方-简 细体 */
+/* @font-face {
+  font-family: 'PingFang SC';
+  font-style: normal;
+  font-weight: 300;
+  src: url('./PingFangSC-Light.woff2') format('woff2');
+}
+*/
+
+/* 苹方-简 常规体 */
+/* @font-face {
+  font-family: 'PingFang SC';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./PingFangSC-Regular.woff2') format('woff2');
+}
+*/
+
+/* 苹方-简 中黑体 */
+/* @font-face {
+  font-family: 'PingFang SC';
+  font-style: normal;
+  font-weight: 500;
+  src: url('./PingFangSC-Medium.woff2') format('woff2');
+}
+*/
+
+/* 苹方-简 中粗体 */
+/* @font-face {
+  font-weight: 600;
+  font-style: normal;
+  font-family: 'PingFang SC';
+  src: url('./PingFangSC-Semibold.woff2') format('woff2');
+}
+*/
+
+body {
+  font-family: SF Pro, "Helvetica Neue", "PingFang SC", -apple-system, sans-serif, Roboto;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  scroll-behavior: smooth;
+  scroll-padding-top: 100px;
+}
+.hide {
+  display: none;
+}
+#screen {
+  user-select: none;
+}
+.logout,
+.no-username {
+  cursor: pointer;
+}
+.goods-item-selecetd {
+  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);
+  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(4px + var(--tw-ring-offset-width)) var(--tw-ring-color);
+  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 #0000);
+
+}
+.mask1 {
+  color: transparent !important;
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.mask2,
+.mask3,
+.mask4,
+.mask5,
+.mask6,
+.mask7,
+.mask8,
+.mask9,
+.mask10,
+.mask11,
+.mask12,
+.mask13,
+.mask14,
+.mask15 {
+  position: relative;
+}
+.mask2:before,
+.mask3:before,
+.mask4:before,
+.mask5:before,
+.mask6:before,
+.mask7:before,
+.mask8:before,
+.mask9:before,
+.mask10:before,
+.mask11:before,
+.mask12:before,
+.mask13:before,
+.mask14:before,
+.mask15:before {
+  content: '';
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.mask2:before {
+  background-color: #000;
+}
+.mask3:before {
+  background-color: red;
+}
+.mask4:before {
+  background-color: green;
+}
+.mask5:before {
+  background-color: blue;
+}
+.mask6:before {
+  background-color: gray;
+}
+.mask7:before {
+  background-color: purple;
+}
+/* 示例：经典灰色马赛克 */
+.mask8:before {
+  background: linear-gradient(45deg, #ccc 25%, transparent 25%),
+    linear-gradient(-45deg, #ccc 25%, transparent 25%),
+    linear-gradient(45deg, transparent 75%, #ccc 75%),
+    linear-gradient(-45deg, transparent 75%, #ccc 75%);
+  background-size: 10px 10px;
+}
+/* 彩色马赛克 */
+.mask9:before {
+  background: linear-gradient(45deg, #ff6b6b 25%, transparent 25%),
+    linear-gradient(-45deg, #6bc1ff 25%, transparent 25%),
+    linear-gradient(45deg, transparent 75%, #6bffb3 75%),
+    linear-gradient(-45deg, transparent 75%, #ffdb6b 75%);
+  background-size: 10px 10px;
+}
+/* 暗黑风格马赛克 */
+.mask10:before {
+  background: linear-gradient(45deg, #333 25%, #444 25%),
+    linear-gradient(-45deg, #333 25%, #444 25%);
+  background-size: 10px 10px;
+}
+/* 极简白色马赛克 */
+.mask11:before {
+  background: linear-gradient(45deg, #fff 25%, transparent 25%),
+    linear-gradient(-45deg, #fff 25%, transparent 25%);
+  background-size: 15px 15px;
+}
+/* 数码风格马赛克 */
+.mask12:before {
+  background: linear-gradient(90deg, #333 25%, transparent 25%),
+    linear-gradient(90deg, transparent 75%, #333 75%);
+  background-size: 8px 8px;
+}
+/* 复古绿色马赛克 */
+.mask13:before {
+  background: linear-gradient(45deg, #4caf50 25%, transparent 25%),
+    linear-gradient(-45deg, #4caf50 25%, transparent 25%);
+  background-size: 12px 12px;
+}
+/* 霓虹马赛克 */
+.mask14:before {
+  background: linear-gradient(45deg, #ff0080 25%, transparent 25%),
+    linear-gradient(-45deg, #00f0ff 25%, transparent 25%);
+  background-size: 15px 15px;
+  mix-blend-mode: screen;
+}
+/* 彩虹马赛克 */
+.mask15:before {
+  background: repeating-linear-gradient(45deg,
+      #ff0000 0,
+      #ff0000 10px,
+      #ff7f00 10px,
+      #ff7f00 20px,
+      #ffff00 20px,
+      #ffff00 30px,
+      #00ff00 30px,
+      #00ff00 40px,
+      #0000ff 40px,
+      #0000ff 50px,
+      #4b0082 50px,
+      #4b0082 60px,
+      #9400d3 60px,
+      #9400d3 70px);
+  background-size: 20px 20px;
+}
+/*# topbar */
+#screen .ios-bar.ios-bar-v1 {
+  /* opacity: 0.5; */
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  /* height: 123px; */
+  height: 74.5px;
+  background-color: #ffffff;
+  padding: 0 42px 0 47.5px;
+  display: flex;
+  align-items: center;
+}
+#screen .ios-bar.ios-bar-v1>.ios-left {
+  flex: 1 1;
+  display: flex;
+  align-items: center;
+}
+#screen .ios-bar.ios-bar-v1>.ios-left .ios-time {
+  font-size: 20px;
+  font-weight: 600;
+  margin: 7.5px;
+}
+#screen .ios-bar.ios-bar-v1>.ios-left .ios-location {
+  width: 18px;
+  height: 18px;
+  background-image: url(data:BASE64[1118]);
+  background-size: cover;
+  text-indent: -9999px;
+  display: block;
+  margin-right: 7.5px;
+  position: relative;
+  left: -3px;
+}
+#screen .ios-bar.ios-bar-v1>.ios-right {
+  display: flex;
+  align-items: center;
+}
+#screen .ios-bar.ios-bar-v1>.ios-right>.ios_single {
+  margin-left: 7.5px;
+  width: 25px;
+  height: 16px;
+  background: url(data:BASE64[286]);
+  background-size: cover;
+  text-indent: -9999px;
+  position: relative;
+}
+#screen .ios-bar.ios-bar-v1 .ios-single-1,
+#screen .ios-bar.ios-bar-v1 .ios-single-2 {
+  /* display: none; */
+  position: absolute;
+  background-color: #9b9b9b;
+  border-radius: 1.2px;
+  width: 4px;
+}
+#screen .ios-bar.ios-bar-v1 .ios-single-1 {
+  height: 15px;
+  right: 0.6px;
+  top: 1px;
+}
+#screen .ios-bar.ios-bar-v1 .ios-single-2 {
+  height: 12px;
+  right: 7.1px;
+  top: 4px;
+}
+#screen .ios-bar.ios-bar-v1>.ios-right>.ios_wifi {
+  margin-left: 5.5px;
+  width: 29.5px;
+  height: 20.5px;
+  background: url(data:BASE64[798]);
+  background-size: cover;
+  text-indent: -9999px;
+}
+#screen .ios-bar.ios-bar-v1>.ios-right>.ios_battery {
+  display: flex;
+  position: relative;
+  margin-left: 5.5px;
+  width: 35.5px;
+  height: 17.5px;
+  background: url(data:BASE64[454]);
+  background-size: cover;
+}
+#screen .ios-bar.ios-bar-v1>.ios-right>.ios_battery span {
+  margin-right: 5px;
+  flex: 1 1;
+  display: flex;
+  flex-direction: column;
+  border-radius: 7px;
+  overflow: hidden;
+}
+#screen .ios-bar.ios-bar-v1>.ios-right>.ios_battery span em {
+  flex: 1 1;
+  text-indent: -9999px;
+  background: #191919;
+}
+#screen .ios-bar.ios-bar-v1>.ios-right>.ios_battery span i {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  font-size: 13px;
+  font-weight: 600;
+  font-style: normal;
+  color: #ffffff;
+}
+#screen .ios-bar.ios-bar-v1>.ios-right>.ios_battery span i a {
+  display: none;
+  content: "";
+  width: 6.5px;
+  height: 10px;
+  background: url(data:BASE64[474]);
+  background-size: cover;
+}
+#screen .ios-bar.ios-bar-v1>.ios-right>.ios_battery-charging span em {
+  background: #34c759;
+}
+#screen .ios-bar.ios-bar-v1>.ios-right>.ios_battery-charging span i a {
+  display: block;
+}
+/* ios bar v2 background icons */
+.ios-bar-v2.white-icon .ios-time {
+  color: #fff;
+}
+.ios-bar-v2 .ios-location-icon-v2 {
+  background-image: url(data:BASE64[1118]);
+  background-size: cover;
+}
+.ios-bar-v2.white-icon .ios-location-icon-v2 {
+  background-image: url(data:BASE64[1262]);
+  background-size: cover;
+}
+.ios-bar-v2 .ios-signal-icon-v2 {
+  background-image: url(data:BASE64[286]);
+  background-size: cover;
+}
+.ios-bar-v2.white-icon .ios-signal-icon-v2 {
+  background-image: url(data:BASE64[286]);
+  background-size: cover;
+}
+.ios-bar-v2 .ios-wifi-icon-v2 {
+  background-image: url(data:BASE64[798]);
+  background-size: cover;
+}
+.ios-bar-v2.white-icon .ios-wifi-icon-v2 {
+  background-image: url(data:BASE64[714]);
+  background-size: cover;
+}
+.ios-bar-v2 .ios-battery-icon-v2 {
+  position: relative;
+}
+.ios-bar-v2 .ios-battery-icon-v2::before {
+  background-image: url(data:BASE64[454]);
+  background-size: cover;
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.ios-bar-v2.white-icon .ios-battery-icon-v2::before {
+  background-image: url(data:BASE64[758]);
+  background-size: cover;
+  opacity: 0.6;
+}
+.ios-bar-v2 .battery-value {
+  background-color: #191919;
+  z-index: 1;
+}
+.ios-bar-v2.white-icon .battery-value {
+  background-color: #fff;
+}
+.ios-bar-v2 .ios-battery-charging-icon-v2 {
+  background-image: url(data:BASE64[474]);
+  background-size: cover;
+}
+.time-h {
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.03em
+}

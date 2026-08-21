@@ -1,0 +1,265 @@
+[
+  {
+    "hash": "c0216c1ff912",
+    "mime": "png",
+    "bytes": 7833,
+    "w": 120,
+    "h": 119,
+    "fmt": "png",
+    "sources": [
+      "pdd:screen",
+      "taobao:screen"
+    ],
+    "contexts": [
+      "alt:品牌图标",
+      "alt:店铺Logo"
+    ]
+  },
+  {
+    "hash": "4da9604221ee",
+    "mime": "png",
+    "bytes": 3347,
+    "w": 66,
+    "h": 66,
+    "fmt": "png",
+    "sources": [
+      "taobao:screen"
+    ],
+    "contexts": [
+      "class:w-7 h-7 | alt:旺旺客服"
+    ]
+  },
+  {
+    "hash": "45b853fa6918",
+    "mime": "png",
+    "bytes": 2253,
+    "w": 66,
+    "h": 66,
+    "fmt": "png",
+    "sources": [
+      "taobao:screen"
+    ],
+    "contexts": [
+      "class:w-8 h-8 | alt:图标"
+    ]
+  },
+  {
+    "hash": "f7e95b14bcd9",
+    "mime": "png",
+    "bytes": 1443,
+    "w": 66,
+    "h": 66,
+    "fmt": "png",
+    "sources": [
+      "taobao:screen"
+    ],
+    "contexts": [
+      "class:w-7 h-7 | alt:更多"
+    ]
+  },
+  {
+    "hash": "b1109c32d8c3",
+    "mime": "png",
+    "bytes": 1102,
+    "w": 66,
+    "h": 66,
+    "fmt": "png",
+    "sources": [
+      "taobao:screen"
+    ],
+    "contexts": [
+      "class:w-8 h-8 | alt:图标"
+    ]
+  },
+  {
+    "hash": "48b95d8886d5",
+    "mime": "png",
+    "bytes": 1067,
+    "w": 66,
+    "h": 66,
+    "fmt": "png",
+    "sources": [
+      "pdd:screen"
+    ],
+    "contexts": [
+      "class:w-8 h8 | alt:店铺图标"
+    ]
+  },
+  {
+    "hash": "1100465f915c",
+    "mime": "png",
+    "bytes": 1015,
+    "w": 36,
+    "h": 36,
+    "fmt": "png",
+    "sources": [
+      "pdd:screen",
+      "taobao:screen"
+    ],
+    "contexts": [
+      "class:w-4 h-4 ml-1 | alt:箭头",
+      "class:w-4 h-4 | alt:箭头",
+      "class:w-4 h-4 ml-2 relative top-[1px] origin-center rotate-90 | alt:箭头",
+      "class:w-4 h-4 ml-1 relative top-[1px] origin-center -rotate-90 | alt:订单信息图标"
+    ]
+  },
+  {
+    "hash": "e8641702a9e5",
+    "mime": "png",
+    "bytes": 928,
+    "w": 40,
+    "h": 40,
+    "fmt": "png",
+    "sources": [
+      "f.css"
+    ],
+    "contexts": [
+      "css:.ios-bar-v2.white-icon .ios-location-icon-v2"
+    ]
+  },
+  {
+    "hash": "4832103cfc5e",
+    "mime": "png",
+    "bytes": 821,
+    "w": 40,
+    "h": 40,
+    "fmt": "png",
+    "sources": [
+      "f.css"
+    ],
+    "contexts": [
+      "css:.5px;\n}\n\n#screen .ios-bar.ios-bar-v1>.ios-left .ios-location",
+      "css:#fff;\n}\n\n.ios-bar-v2 .ios-location-icon-v2"
+    ]
+  },
+  {
+    "hash": "5f24f93eddfc",
+    "mime": "png",
+    "bytes": 702,
+    "w": 46,
+    "h": 45,
+    "fmt": "png",
+    "sources": [
+      "taobao:screen"
+    ],
+    "contexts": [
+      "class:w-[22px] h-[22px] | alt:位置图标"
+    ]
+  },
+  {
+    "hash": "8d6ccd9e1056",
+    "mime": "png",
+    "bytes": 580,
+    "w": 63,
+    "h": 45,
+    "fmt": "png",
+    "sources": [
+      "f.css"
+    ],
+    "contexts": [
+      "css:.1px;\n  top: 4px;\n}\n\n#screen .ios-bar.ios-bar-v1>.ios-right>.ios_wifi",
+      "css:.ios-bar-v2 .ios-wifi-icon-v2"
+    ]
+  },
+  {
+    "hash": "89e7029c9f58",
+    "mime": "png",
+    "bytes": 557,
+    "w": 36,
+    "h": 36,
+    "fmt": "png",
+    "sources": [
+      "taobao:screen"
+    ],
+    "contexts": [
+      "class:w-4 h-4 ml-1 | alt:收货信息图标"
+    ]
+  },
+  {
+    "hash": "6fa605be9fbf",
+    "mime": "png",
+    "bytes": 550,
+    "w": 83,
+    "h": 41,
+    "fmt": "png",
+    "sources": [
+      "f.css"
+    ],
+    "contexts": [
+      "css:.ios-bar-v2.white-icon .ios-battery-icon-v2::before"
+    ]
+  },
+  {
+    "hash": "61ea0e82a955",
+    "mime": "png",
+    "bytes": 519,
+    "w": 63,
+    "h": 45,
+    "fmt": "png",
+    "sources": [
+      "f.css"
+    ],
+    "contexts": [
+      "css:.ios-bar-v2.white-icon .ios-wifi-icon-v2"
+    ]
+  },
+  {
+    "hash": "dbaa911885a1",
+    "mime": "png",
+    "bytes": 339,
+    "w": 19,
+    "h": 26,
+    "fmt": "png",
+    "sources": [
+      "f.css"
+    ],
+    "contexts": [
+      "css:#ffffff;\n}\n\n#screen .ios-bar.ios-bar-v1>.ios-right>.ios_battery span i a",
+      "css:#fff;\n}\n\n\n\n.ios-bar-v2 .ios-battery-charging-icon-v2"
+    ]
+  },
+  {
+    "hash": "7138a3f39c47",
+    "mime": "png",
+    "bytes": 324,
+    "w": 83,
+    "h": 41,
+    "fmt": "png",
+    "sources": [
+      "f.css"
+    ],
+    "contexts": [
+      "css:#screen .ios-bar.ios-bar-v1>.ios-right>.ios_battery",
+      "css:.ios-bar-v2 .ios-battery-icon-v2::before"
+    ]
+  },
+  {
+    "hash": "79e7f466fccf",
+    "mime": "png",
+    "bytes": 198,
+    "w": 54,
+    "h": 36,
+    "fmt": "png",
+    "sources": [
+      "f.css"
+    ],
+    "contexts": [
+      "css:#screen .ios-bar.ios-bar-v1>.ios-right>.ios_single",
+      "css:.ios-bar-v2 .ios-signal-icon-v2"
+    ]
+  },
+  {
+    "hash": "7a0d256d862c",
+    "mime": "png",
+    "bytes": 198,
+    "w": 54,
+    "h": 36,
+    "fmt": "png",
+    "sources": [
+      "f.css"
+    ],
+    "contexts": [
+      "css:.ios-bar-v2.white-icon .ios-signal-icon-v2"
+    ]
+  }
+]

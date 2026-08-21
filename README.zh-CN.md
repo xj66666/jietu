@@ -194,3 +194,6 @@ docker compose up dev --build # 在开发模式下运行，端口 3001
 MIT
 
 <sub>语言: <a href="README.md">English</a> · <a href="README.ja.md">日本語</a> · 简体中文</sub>
+
+本地预览:npm run start -- -p 3111,然后访问 http://localhost:3111/mock-order/pdd/order.html
+

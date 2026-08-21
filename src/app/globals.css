@@ -128,3 +128,187 @@
     @apply font-sans;
   }
 }
+
+/* ---------------------------------------------------------------------------
+   Site scope: order.hereserver.com mock-order generators
+   ---------------------------------------------------------------------------
+   Ported from the target's own stylesheets:
+     - inline <style> in each page's <head>
+     - https://order.hereserver.com/mock-order/font/f.css
+   Everything is namespaced under .site-mock-order so the template scaffold at /
+   keeps its own fonts and tokens. See
+   docs/research/order-hereserver-com-a6d29d9e/SHARED_SHELL.md for provenance.
+   --------------------------------------------------------------------------- */
+
+.site-mock-order {
+  /* The page's inline <style> re-declares body font AFTER f.css, so this stack —
+     not f.css's SF-Pro-first one — is what actually computes on the target. */
+  font-family: -apple-system, var(--font-sf-pro), "Helvetica Neue", "PingFang SC", sans-serif, Roboto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  /* f.css sets these on body; scoped here so the scaffold route is unaffected. */
+  scroll-behavior: smooth;
+  scroll-padding-top: 100px;
+
+  /* --- Tailwind v3 line-height compatibility -------------------------------
+     v3 shipped absolute line-heights (`text-sm` => `line-height: 1.25rem`), v4 ships
+     unitless ratios (`calc(1.25 / .875)` => 1.42857). The target leans on the absolute
+     behaviour: its canvas root is `text-sm`, and dozens of descendants use arbitrary
+     sizes like `text-[22px]` which emit *only* font-size and inherit the line-height.
+     Under v4 those descendants recompute 22 x 1.42857 = 31.43px instead of inheriting
+     20px, which pushed every row of the canvas down.
+
+     Pinning the scale's line-height variables back to v3's rem values restores it.
+     `leading-*` utilities still win — they set --tw-leading, which takes priority. */
+  --text-xs--line-height: 1rem;
+  --text-sm--line-height: 1.25rem;
+  --text-base--line-height: 1.5rem;
+  --text-lg--line-height: 1.75rem;
+  --text-xl--line-height: 1.75rem;
+  --text-2xl--line-height: 2rem;
+  --text-3xl--line-height: 2.25rem;
+  --text-4xl--line-height: 2.5rem;
+  --text-5xl--line-height: 1;
+}
+
+/* Tailwind v3.4.5 preflight painted every border #e5e7eb. Tailwind v4 defaults to
+   currentColor, and this project's base layer points it at --border. Every border in
+   the target declares an explicit colour, so pin the inherited default back to v3's
+   value to keep any stray `border` utility from picking up a different grey. */
+.site-mock-order *,
+.site-mock-order *::before,
+.site-mock-order *::after {
+  border-color: #e5e7eb;
+}
+
+.site-mock-order .defaultFont {
+  font-family: -apple-system, var(--font-sf-pro), "Helvetica Neue", "PingFang SC", sans-serif, Roboto;
+}
+
+.site-mock-order .money {
+  font-style: normal;
+  font-family: var(--font-wechat-num);
+}
+
+.site-mock-order .gray-color {
+  color: #9f9f9f;
+}
+
+.site-mock-order .hide {
+  display: none;
+}
+
+/* Tabular figures so the stacked timestamp column lines up (f.css .time-h). */
+.site-mock-order .time-h {
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.03em;
+}
+
+/* All three columns scroll internally with no visible scrollbar. */
+.site-mock-order .scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.site-mock-order .scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+/* The preview canvas. f.css sets user-select:none on #screen. */
+.site-mock-order .mo-screen {
+  user-select: none;
+}
+
+.site-mock-order .user-container {
+  display: flex;
+  align-items: center;
+}
+.site-mock-order .avatar {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.site-mock-order .avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.site-mock-order .username,
+.site-mock-order .no-username {
+  margin-left: 10px;
+  font-size: 16px;
+  color: #333;
+}
+.site-mock-order .logout,
+.site-mock-order .no-username {
+  cursor: pointer;
+}
+
+/* --- iOS status bar, v2 icon set -------------------------------------------
+   f.css inlines these as base64; they are extracted to files by
+   scripts/download-assets-order-hereserver-com-a6d29d9e-shared.mjs.
+   The v1 rule set is deliberately not ported — both target pages carry
+   `use-ios-bar-v2`. */
+
+.site-mock-order .ios-location-icon-v2 {
+  background-image: url("/sites/order-hereserver-com-a6d29d9e/shared/status-bar/ios-location.png");
+  background-size: cover;
+}
+.site-mock-order .ios-signal-icon-v2 {
+  background-image: url("/sites/order-hereserver-com-a6d29d9e/shared/status-bar/ios-signal.png");
+  background-size: cover;
+}
+.site-mock-order .ios-wifi-icon-v2 {
+  background-image: url("/sites/order-hereserver-com-a6d29d9e/shared/status-bar/ios-wifi.png");
+  background-size: cover;
+}
+.site-mock-order .ios-battery-icon-v2 {
+  position: relative;
+}
+.site-mock-order .ios-battery-icon-v2::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: url("/sites/order-hereserver-com-a6d29d9e/shared/status-bar/ios-battery.png");
+  background-size: cover;
+}
+.site-mock-order .battery-value {
+  background-color: #191919;
+  z-index: 1;
+}
+.site-mock-order .ios-battery-charging-icon-v2 {
+  background-image: url("/sites/order-hereserver-com-a6d29d9e/shared/status-bar/ios-battery-charging.png");
+  background-size: cover;
+}
+
+/* Charging swaps the fill to iOS green and reveals the bolt. */
+.site-mock-order .ios_battery-charging .battery-value {
+  background-color: #34c759;
+}
+.site-mock-order .ios_battery-charging .ios-battery-charging-icon-v2 {
+  display: block;
+}
+
+/* White-icon variant for dark canvases. Not triggered by either target page,
+   but part of the shared status-bar contract. */
+.site-mock-order .ios-bar-v2.white-icon .ios-time {
+  color: #fff;
+}
+.site-mock-order .ios-bar-v2.white-icon .ios-location-icon-v2 {
+  background-image: url("/sites/order-hereserver-com-a6d29d9e/shared/status-bar/ios-location-white.png");
+}
+.site-mock-order .ios-bar-v2.white-icon .ios-signal-icon-v2 {
+  background-image: url("/sites/order-hereserver-com-a6d29d9e/shared/status-bar/ios-signal-white.png");
+}
+.site-mock-order .ios-bar-v2.white-icon .ios-wifi-icon-v2 {
+  background-image: url("/sites/order-hereserver-com-a6d29d9e/shared/status-bar/ios-wifi-white.png");
+}
+.site-mock-order .ios-bar-v2.white-icon .ios-battery-icon-v2::before {
+  background-image: url("/sites/order-hereserver-com-a6d29d9e/shared/status-bar/ios-battery-white.png");
+  opacity: 0.6;
+}
+.site-mock-order .ios-bar-v2.white-icon .battery-value {
+  background-color: #fff;
+}

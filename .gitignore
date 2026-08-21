@@ -47,3 +47,6 @@ next-env.d.ts
 
 # Local temp files
 temp/
+
+# clone-website extraction scratch (raw fetched source of the target site)
+.tmp-src/

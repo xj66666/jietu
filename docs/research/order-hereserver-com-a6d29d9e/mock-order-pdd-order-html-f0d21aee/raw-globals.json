@@ -1,0 +1,258 @@
+{
+  "title": "拼多多订单生成器_PDD拼单成功截图模拟器_物流详情生成-魔猫订单",
+  "lang": "en",
+  "metaDescription": "魔猫拼多多订单模拟工具：支持一键生成1:1仿真PDD订单详情截图。包含拼单成功、待收货、退款完成等全状态模拟，可高度自定义商品标题、规格、拼单成员头像及物流单号。导出高清长图，专为电商内容创作及朋友圈趣味分享设计。\t",
+  "metaViewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+  "canonical": "https://order.hereserver.com/mock-order/pdd/order.html",
+  "jsonLd": [
+    "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Organization\",\n  \"@id\": \"https://order.hereserver.com/#organization\",\n  \"name\": \"魔猫订单\",\n  \"url\": \"https://order.hereserver.com\",\n  \"logo\": \"https://order.hereserver.com/favicon.png\",\n  \"sameAs\": [\n    \"https://order.hereserver.com/about.html\"\n  ]\n}"
+  ],
+  "favicons": [],
+  "stylesheets": [
+    "https://order.hereserver.com/mock-order/font/f.css?v=202601041855",
+    "https://order.hereserver.com/mock-order/font//tippy.min.css"
+  ],
+  "scripts": [
+    "https://scripts.clarity.ms/0.8.69/clarity.js",
+    "https://www.google-analytics.com/analytics.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-PYGP9719S0&cx=c&gtm=4e68j0",
+    "https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js",
+    "https://hm.baidu.com/hm.js?6243f4705e5028b5b982dc3dbe2df948",
+    "https://www.clarity.ms/tag/oiv7harsxz",
+    "https://qncdn.hereserver.com/tw3.4.5.js",
+    "https://order.hereserver.com/mock-order/font/popper.min.js",
+    "https://order.hereserver.com/mock-order/font/tippy-bundle.umd.min.js",
+    "https://order.hereserver.com/mock-order/js/qrcode.js",
+    "https://order.hereserver.com/mock-order/js/hti.js",
+    "https://www.googletagmanager.com/gtag/js?id=UA-110782255-1"
+  ],
+  "bodyClass": "bg-gray-100 text-gray-900 min-h-screen",
+  "bodyId": "app",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "bodyStyles": {
+    "fontFamily": "-apple-system, \"SF Pro\", \"Helvetica Neue\", \"PingFang SC\", sans-serif, Roboto",
+    "fontSize": "16px",
+    "color": "rgb(17, 24, 39)",
+    "backgroundColor": "rgb(243, 244, 246)",
+    "webkitFontSmoothing": "antialiased",
+    "minHeight": "900px"
+  },
+  "fontFamiliesInUse": [
+    "-apple-system, \"SF Pro\", \"Helvetica Neue\", \"PingFang SC\", sans-serif, Roboto"
+  ],
+  "fontFaces": [
+    {
+      "href": "https://order.hereserver.com/mock-order/font/f.css?v=202601041855",
+      "family": "\"SF Pro\"",
+      "src": "url(\"./sf-pro-text_semibold.a0c74f8f.woff2\") format(\"woff2\")",
+      "weight": "600",
+      "style": "normal",
+      "display": ""
+    },
+    {
+      "href": "https://order.hereserver.com/mock-order/font/f.css?v=202601041855",
+      "family": "\"SF Pro\"",
+      "src": "url(\"./sf-pro-text_medium.dcc28d6a.woff2\") format(\"woff2\")",
+      "weight": "500",
+      "style": "normal",
+      "display": ""
+    },
+    {
+      "href": "https://order.hereserver.com/mock-order/font/f.css?v=202601041855",
+      "family": "\"SF Pro\"",
+      "src": "url(\"./sf-pro-text_regular.07bdfc6e.woff2\") format(\"woff2\")",
+      "weight": "400",
+      "style": "normal",
+      "display": ""
+    },
+    {
+      "href": "https://order.hereserver.com/mock-order/font/f.css?v=202601041855",
+      "family": "WeChatNum",
+      "src": "url(\"./WeChatNum.04b083e1.ttf\")",
+      "weight": "400",
+      "style": "normal",
+      "display": ""
+    }
+  ],
+  "colorsInUse": {
+    "color": [
+      [
+        "rgb(17, 24, 39)",
+        243
+      ],
+      [
+        "rgb(55, 65, 81)",
+        38
+      ],
+      [
+        "rgb(35, 34, 34)",
+        23
+      ],
+      [
+        "rgb(255, 255, 255)",
+        17
+      ],
+      [
+        "rgb(79, 70, 229)",
+        11
+      ],
+      [
+        "rgb(136, 136, 136)",
+        10
+      ],
+      [
+        "rgb(75, 85, 99)",
+        10
+      ],
+      [
+        "rgb(0, 0, 0)",
+        7
+      ],
+      [
+        "rgb(156, 163, 175)",
+        6
+      ],
+      [
+        "rgb(107, 114, 128)",
+        5
+      ],
+      [
+        "rgb(216, 30, 6)",
+        5
+      ],
+      [
+        "rgb(51, 51, 51)",
+        4
+      ],
+      [
+        "rgb(37, 99, 235)",
+        4
+      ],
+      [
+        "rgb(251, 191, 36)",
+        4
+      ],
+      [
+        "rgb(37, 181, 20)",
+        3
+      ],
+      [
+        "rgb(255, 99, 6)",
+        3
+      ],
+      [
+        "rgb(95, 94, 94)",
+        3
+      ],
+      [
+        "rgb(209, 213, 219)",
+        3
+      ],
+      [
+        "rgb(123, 136, 157)",
+        2
+      ],
+      [
+        "rgb(31, 41, 55)",
+        1
+      ],
+      [
+        "rgb(239, 68, 68)",
+        1
+      ]
+    ],
+    "backgroundColor": [
+      [
+        "rgb(249, 250, 251)",
+        26
+      ],
+      [
+        "rgb(255, 255, 255)",
+        18
+      ],
+      [
+        "rgb(243, 244, 246)",
+        4
+      ],
+      [
+        "rgb(37, 99, 235)",
+        2
+      ],
+      [
+        "rgb(155, 155, 155)",
+        2
+      ],
+      [
+        "rgb(55, 65, 81)",
+        2
+      ],
+      [
+        "rgba(255, 255, 255, 0.6)",
+        2
+      ],
+      [
+        "rgb(51, 51, 51)",
+        2
+      ],
+      [
+        "rgb(209, 213, 219)",
+        1
+      ],
+      [
+        "rgb(242, 242, 242)",
+        1
+      ],
+      [
+        "rgb(229, 231, 235)",
+        1
+      ],
+      [
+        "rgb(25, 25, 25)",
+        1
+      ],
+      [
+        "rgb(59, 130, 246)",
+        1
+      ],
+      [
+        "rgba(17, 24, 39, 0.5)",
+        1
+      ],
+      [
+        "rgb(31, 41, 55)",
+        1
+      ],
+      [
+        "rgba(0, 0, 0, 0.5)",
+        1
+      ],
+      [
+        "rgb(17, 24, 39)",
+        1
+      ],
+      [
+        "rgb(99, 102, 241)",
+        1
+      ]
+    ],
+    "borderColor": [
+      [
+        "rgb(209, 213, 219)",
+        26
+      ],
+      [
+        "rgb(229, 231, 235)",
+        10
+      ]
+    ]
+  },
+  "scrollSignals": {
+    "lenis": false,
+    "locomotive": false,
+    "htmlScrollBehavior": "auto",
+    "bodyScrollSnapType": "none",
+    "knownLibs": [
+      "Vue"
+    ]
+  }
+}

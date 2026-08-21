@@ -1,0 +1,218 @@
+[
+  {
+    "target": "pdd",
+    "counts": {
+      "original": 124,
+      "clone": 117,
+      "diffs": 1,
+      "missing": 7,
+      "extra": 0
+    },
+    "diffs": [
+      {
+        "path": "#screen/div[1]/div[2]/div[2]/span[0]/em[0]",
+        "tag": "em",
+        "cls": "flex-1 z-11 indent-[-9999px] battery-value",
+        "text": "电量",
+        "dx": 0,
+        "dy": 0,
+        "dw": 1.8,
+        "dh": 0,
+        "styleDiff": [],
+        "orig": {
+          "x": 508,
+          "y": 27.5,
+          "w": 7.2,
+          "h": 24
+        }
+      }
+    ],
+    "missing": [
+      {
+        "path": "#screen/div[1]/div[2]/span[0]/i[1]",
+        "tag": "i",
+        "cls": "ios-single-2 absolute bg-[#9b9b9b] rounded-[1.2px] w-[4px] h-[14px] right-[7.8px] top-[4px",
+        "x": 452.7,
+        "y": 31.8,
+        "w": 4,
+        "h": 14,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "text": null
+      },
+      {
+        "path": "#screen/div[2]/div[0]/div[0]/div[1]",
+        "tag": "div",
+        "cls": "flex items-center gap-1 flex-row",
+        "x": -296,
+        "y": -57,
+        "w": 0,
+        "h": 0,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "text": null
+      },
+      {
+        "path": "#screen/div[2]/div[0]/div[0]/div[1]/svg[0]",
+        "tag": "svg",
+        "cls": "[object SVGAnimatedString]",
+        "x": -296,
+        "y": -57,
+        "w": 0,
+        "h": 0,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "text": null
+      },
+      {
+        "path": "#screen/div[2]/div[0]/div[0]/div[1]/svg[0]/path[0]",
+        "tag": "path",
+        "cls": "[object SVGAnimatedString]",
+        "x": -296,
+        "y": -57,
+        "w": 0,
+        "h": 0,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "text": null
+      },
+      {
+        "path": "#screen/div[2]/div[0]/div[1]/div[3]",
+        "tag": "div",
+        "cls": "material-battery w-7 h-7 relative top-[1px]",
+        "x": -296,
+        "y": -57,
+        "w": 0,
+        "h": 0,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "text": null
+      },
+      {
+        "path": "#screen/div[2]/div[0]/div[1]/div[3]/svg[0]",
+        "tag": "svg",
+        "cls": "[object SVGAnimatedString]",
+        "x": -296,
+        "y": -57,
+        "w": 0,
+        "h": 0,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "text": null
+      },
+      {
+        "path": "#screen/div[2]/div[0]/div[1]/div[3]/svg[0]/path[0]",
+        "tag": "path",
+        "cls": "[object SVGAnimatedString]",
+        "x": -296,
+        "y": -57,
+        "w": 0,
+        "h": 0,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "text": null
+      }
+    ],
+    "extra": []
+  },
+  {
+    "target": "taobao",
+    "counts": {
+      "original": 136,
+      "clone": 136,
+      "diffs": 3,
+      "missing": 1,
+      "extra": 1
+    },
+    "diffs": [
+      {
+        "path": "#screen/div[0]/section[3]/div[1]/span[1]",
+        "tag": "span",
+        "cls": "text-[#888888]",
+        "text": null,
+        "dx": -9.8,
+        "dy": 0,
+        "dw": 9.9,
+        "dh": 0,
+        "styleDiff": [],
+        "orig": {
+          "x": 288.1,
+          "y": 718,
+          "w": 277.4,
+          "h": 28
+        }
+      },
+      {
+        "path": "#screen/div[0]/section[3]/div[7]/span[1]",
+        "tag": "span",
+        "cls": "text-[#888888]",
+        "text": "5552273915383582232689521975",
+        "dx": -4,
+        "dy": 0,
+        "dw": 4,
+        "dh": 0,
+        "styleDiff": [],
+        "orig": {
+          "x": 226.4,
+          "y": 1024,
+          "w": 339.1,
+          "h": 28
+        }
+      },
+      {
+        "path": "#screen/div[1]/div[2]/div[2]/span[0]/em[0]",
+        "tag": "em",
+        "cls": "flex-1 z-11 indent-[-9999px] battery-value",
+        "text": "电量",
+        "dx": 0,
+        "dy": 0,
+        "dw": -5.8,
+        "dh": 0,
+        "styleDiff": [],
+        "orig": {
+          "x": 508,
+          "y": 27.5,
+          "w": 14.8,
+          "h": 24
+        }
+      }
+    ],
+    "missing": [
+      {
+        "path": "#screen/div[2]/div[0]/div[0]/div[1]",
+        "tag": "div",
+        "cls": "flex items-center gap-1 flex-row",
+        "x": -296,
+        "y": -57,
+        "w": 0,
+        "h": 0,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "text": null
+      }
+    ],
+    "extra": [
+      {
+        "path": "#screen/div[1]/div[2]/span[0]/i[0]",
+        "tag": "i",
+        "cls": "ios-single-1 absolute bg-[#9b9b9b] rounded-[1.2px] w-[4.8px] h-[17px] right-[0.1px] top-[1",
+        "x": 459.6,
+        "y": 28.8,
+        "w": 4.8,
+        "h": 17,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "text": null
+      }
+    ]
+  }
+]

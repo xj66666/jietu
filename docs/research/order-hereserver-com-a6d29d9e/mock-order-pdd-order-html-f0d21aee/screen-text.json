@@ -1,0 +1,278 @@
+[
+  {
+    "depth": 3,
+    "text": "已签收 已按承诺时间送达",
+    "parentTag": "div",
+    "parentClass": "font-medium text-[26px]"
+  },
+  {
+    "depth": 5,
+    "text": "已签收",
+    "parentTag": "span",
+    "parentClass": "border-r-[1px] border-[#e5e7eb] pr-[9px]"
+  },
+  {
+    "depth": 4,
+    "text": "5天前［菜鸟驿站］海口市万科园区三幢四区",
+    "parentTag": "span",
+    "parentClass": "text-black text-[22px] truncate w-[404px]"
+  },
+  {
+    "depth": 6,
+    "text": "张三丰 188****3123",
+    "parentTag": "span",
+    "parentClass": ""
+  },
+  {
+    "depth": 6,
+    "text": "海口市三亚区",
+    "parentTag": "span",
+    "parentClass": ""
+  },
+  {
+    "depth": 4,
+    "text": "万科园区 86-189****3501",
+    "parentTag": "span",
+    "parentClass": "truncate max-w-[400px]"
+  },
+  {
+    "depth": 5,
+    "text": "苹果官方旗舰店",
+    "parentTag": "span",
+    "parentClass": "text-[22px]"
+  },
+  {
+    "depth": 8,
+    "text": "苹果 iPhone 14 Pro 128GB 星夜黑 移动联通电信5G手机 双卡双待",
+    "parentTag": "div",
+    "parentClass": "leading-7 h-[56px] overflow-hidden"
+  },
+  {
+    "depth": 8,
+    "text": "黑色 128G",
+    "parentTag": "div",
+    "parentClass": "text-[19px] h-[19px] overflow-hidden text-gray-400"
+  },
+  {
+    "depth": 9,
+    "text": "¥",
+    "parentTag": "span",
+    "parentClass": "text-sm"
+  },
+  {
+    "depth": 8,
+    "text": "2999.01",
+    "parentTag": "div",
+    "parentClass": ""
+  },
+  {
+    "depth": 8,
+    "text": "x1",
+    "parentTag": "div",
+    "parentClass": "text-[17px]"
+  },
+  {
+    "depth": 5,
+    "text": "¥10.01",
+    "parentTag": "span",
+    "parentClass": "text-[20px] tracking-tighter ml-[60px] text-[#d81e06]"
+  },
+  {
+    "depth": 4,
+    "text": "实付:",
+    "parentTag": "span",
+    "parentClass": "text-[19px]"
+  },
+  {
+    "depth": 6,
+    "text": "¥",
+    "parentTag": "span",
+    "parentClass": "text-sm"
+  },
+  {
+    "depth": 6,
+    "text": "1998",
+    "parentTag": "span",
+    "parentClass": "text-[22px] font-[200]"
+  },
+  {
+    "depth": 6,
+    "text": ".01",
+    "parentTag": "span",
+    "parentClass": "text-[16px]"
+  },
+  {
+    "depth": 4,
+    "text": "拼单价",
+    "parentTag": "span",
+    "parentClass": "invisible"
+  },
+  {
+    "depth": 4,
+    "text": "¥9.9",
+    "parentTag": "span",
+    "parentClass": "w-[354px] text-right text-[#5f5e5e]"
+  },
+  {
+    "depth": 4,
+    "text": "平台优惠",
+    "parentTag": "span",
+    "parentClass": "invisible"
+  },
+  {
+    "depth": 4,
+    "text": "-¥10.01",
+    "parentTag": "span",
+    "parentClass": "w-[354px] text-right text-[#5f5e5e]"
+  },
+  {
+    "depth": 4,
+    "text": "多多支付立减优惠",
+    "parentTag": "span",
+    "parentClass": "invisible"
+  },
+  {
+    "depth": 4,
+    "text": "-¥8.01",
+    "parentTag": "span",
+    "parentClass": "w-[354px] text-right text-[#5f5e5e]"
+  },
+  {
+    "depth": 4,
+    "text": "订单编号",
+    "parentTag": "span",
+    "parentClass": "invisible"
+  },
+  {
+    "depth": 4,
+    "text": "429231-9127198787175715832",
+    "parentTag": "span",
+    "parentClass": "w-[448px] text-[#888888]"
+  },
+  {
+    "depth": 4,
+    "text": "支付方式",
+    "parentTag": "span",
+    "parentClass": "invisible"
+  },
+  {
+    "depth": 5,
+    "text": "多多支付",
+    "parentTag": "div",
+    "parentClass": ""
+  },
+  {
+    "depth": 5,
+    "text": "工商银行储蓄卡(2023)支付¥3.12",
+    "parentTag": "div",
+    "parentClass": "mt-[10px]"
+  },
+  {
+    "depth": 4,
+    "text": "商品快照",
+    "parentTag": "span",
+    "parentClass": "invisible"
+  },
+  {
+    "depth": 4,
+    "text": "核对交易细节时，可作为判断依据",
+    "parentTag": "span",
+    "parentClass": "w-[448px] text-[#888888]"
+  },
+  {
+    "depth": 4,
+    "text": "物流公司",
+    "parentTag": "span",
+    "parentClass": "invisible"
+  },
+  {
+    "depth": 4,
+    "text": "圆通快递",
+    "parentTag": "span",
+    "parentClass": "w-[448px] text-[#888888]"
+  },
+  {
+    "depth": 4,
+    "text": "物流公司",
+    "parentTag": "span",
+    "parentClass": "invisible"
+  },
+  {
+    "depth": 4,
+    "text": "YT9917335767750",
+    "parentTag": "span",
+    "parentClass": "w-[448px] text-[#888888]"
+  },
+  {
+    "depth": 4,
+    "text": "下单时间",
+    "parentTag": "span",
+    "parentClass": "invisible"
+  },
+  {
+    "depth": 4,
+    "text": "2025-11-13 01:13:40",
+    "parentTag": "span",
+    "parentClass": "w-[448px] text-[#888888]"
+  },
+  {
+    "depth": 4,
+    "text": "拼单时间",
+    "parentTag": "span",
+    "parentClass": "invisible"
+  },
+  {
+    "depth": 4,
+    "text": "2025-11-13 01:13:47",
+    "parentTag": "span",
+    "parentClass": "w-[448px] text-[#888888] relative"
+  },
+  {
+    "depth": 4,
+    "text": "发货时间",
+    "parentTag": "span",
+    "parentClass": "invisible"
+  },
+  {
+    "depth": 4,
+    "text": "2025-11-13 08:37:38",
+    "parentTag": "span",
+    "parentClass": "w-[448px] text-[#888888]"
+  },
+  {
+    "depth": 3,
+    "text": "08:41",
+    "parentTag": "span",
+    "parentClass": "ios-time ml-4 text-[25px] font-semibold my-[7.5px]"
+  },
+  {
+    "depth": 3,
+    "text": "定位",
+    "parentTag": "span",
+    "parentClass": "ios-location block w-[21px] h-[21px] mr-[7.5px] relative left-[10px] indent-[-9999px] bg-cover ios-location-icon-v2"
+  },
+  {
+    "depth": 3,
+    "text": "wifi",
+    "parentTag": "span",
+    "parentClass": "ios_wifi ml-[5.5px] w-[32.5px] h-[20.5px] indent-[-9999px] bg-cover ios-wifi-icon-v2"
+  },
+  {
+    "depth": 5,
+    "text": "电量",
+    "parentTag": "em",
+    "parentClass": "flex-1 z-11 indent-[-9999px] battery-value"
+  },
+  {
+    "depth": 5,
+    "text": "26",
+    "parentTag": "i",
+    "parentClass": "flex items-center justify-center absolute w-full h-full text-[15px] font-semibold text-white not-italic battery-value-number z-10"
+  },
+  {
+    "depth": 4,
+    "text": "08:41",
+    "parentTag": "div",
+    "parentClass": "font-semibold text-2xl"
+  }
+]

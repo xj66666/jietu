@@ -1,0 +1,33 @@
+{
+  "pwall": {
+    "outerHTML": "<div id=\"pwall\" class=\"fixed z-100 inset-0 flex items-center justify-center bg-black bg-opacity-50 hidden\" style=\"display: none; z-index: 100;\"><button class=\"absolute top-1 right-1 z-10\"><svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" class=\"size-6\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M6 18 18 6M6 6l12 12\"></path></svg></button><div class=\"bg-white rounded-lg shadow-lg w-full h-full\"><div class=\"relative isolate bg-white p-6 max-md:h-screen max-md:overflow-y-scroll\"><div class=\"absolute inset-x-0 -top-3 -z-10 transform-gpu overflow-hidden px-36 blur-3xl\" aria-hidden=\"true\"><div class=\"mx-auto aspect-[1155/678] w-[72.1875rem] bg-gradient-to-tr from-[#ff80b5] to-[#9089fc] opacity-30\" style=\"clip-path: polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%);\"></div></div><div class=\"mx-auto max-w-4xl text-center\"><h2 class=\"text-base font-semibold leading-7 text-indigo-600\">打赏后当前登录的用户将成为会员</h2><h3 class=\"text-sm\">虚拟商品不支持退款,请确认功能符合你的要求</h3><p class=\"mt-2 text-balance text-4xl font-semibold tracking-tight text-gray-900 sm:text-4xl [@media(max-height:1000px)]:hidden\">食物投递方案</p></div><p class=\"mx-auto mt-6 max-w-2xl text-pretty text-center text-lg font-medium text-gray-600 sm:text-xl/8 [@media(max-height:1000px)]:hidden\">支持本站, 有了食物它才能活下去.</p><div class=\"mx-auto mt-16 grid max-w-lg grid-cols-1 items-center gap-y-6 sm:mt-20 sm:gap-y-0 lg:max-w-4xl lg:grid-cols-3\"><div class=\"bg-white/60 sm:mx-8 lg:mx-0 rounded-t-3xl sm:rounded-b-none lg:rounded-bl-3xl lg:rounded-tr-none rounded-3xl p-8 ring-1 ring-gray-900/10 sm:p-10\"><h3 id=\"d\" class=\"text-indigo-600 text-base font-semibold leading-7\">力所能及<!----></h3><p class=\"mt-4 flex items-baseline gap-x-2\"><span class=\"text-gray-900 text-5xl font-semibold tracking-tight\">¥5.0</span><span class=\"text-gray-500 text-base\">/ 24 小时</span></p><p class=\"text-gray-600 mt-6 text-base leading-7\">请吃一碗素面.</p><ul role=\"list\" class=\"text-gray-600 mt-8 space-y-3 text-sm leading-6 sm:mt-10\"><li class=\"flex gap-x-3\">此时间段内无限制使用所有订单生成器</li></ul><!----><!----><a href=\"#\" class=\"relative text-indigo-600 ring-1 ring-inset ring-indigo-200 hover:ring-indigo-300 focus-visible:outline-indigo-600 mt-8 block rounded-md px-3.5 py-2.5 text-center text-sm font-semibold focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 sm:mt-10\" aria-describedby=\"d\">立即打赏 <span class=\"absolute\" style=\"top: 12px; left: 14px;\"><svg t=\"1730113886956\" class=\"icon\" viewBox=\"0 0 1024 1024\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" p-id=\"2292\" width=\"16\" height=\"16\"><path d=\"M860.009412 1.445647H164.020706A163.779765 163.779765 0 0 0 0 165.044706v693.940706c0 90.322824 73.396706 163.568941 164.020706 163.568941h695.988706A163.749647 163.749647 0 0 0 1024 858.985412v-6.686118s-266.360471-110.712471-400.835765-175.194353c-90.202353 110.682353-206.576941 177.844706-327.378823 177.844706-204.318118 0-273.709176-178.266353-176.941177-295.634823 21.082353-25.6 56.982588-49.995294 112.670118-63.698824 87.100235-21.323294 225.761882 13.312 355.689412 56.079059a709.993412 709.993412 0 0 0 57.675294-140.559059H244.404706v-40.448h206.486588V298.164706H200.824471V257.686588h250.096941V154.262588s0-17.438118 17.709176-17.438117h100.924236v120.862117h247.265882V298.164706h-247.265882v72.493176h201.84847c-19.305412 78.878118-48.670118 151.491765-85.473882 215.250824 61.259294 22.106353 116.254118 43.038118 157.214117 56.711529C990.539294 691.832471 1024 694.512941 1024 694.512941V165.044706A163.749647 163.749647 0 0 0 860.009412 1.445647zM248.892235 556.122353c-25.569882 2.529882-73.607529 13.824-99.870117 36.954353-78.727529 68.457412-31.623529 193.566118 127.668706 193.566118 92.581647 0 185.133176-59.030588 257.807058-153.569883-103.363765-50.266353-190.976-86.256941-285.605647-76.950588z\" fill=\"#",
+    "text": "打赏后当前登录的用户将成为会员虚拟商品不支持退款,请确认功能符合你的要求食物投递方案支持本站, 有了食物它才能活下去.力所能及¥5.0/ 24 小时请吃一碗素面.此时间段内无限制使用所有订单生成器立即打赏 慷慨赏赐¥19/ 30 天请吃一份鸡腿饭.此时间段内无限制使用所有订单生成器立即打赏 长期关爱¥165/ 365 天请吃一份肯德基全家桶.此时间段内无限制使用所有订单生成器立即打赏",
+    "css": {
+      "position": "fixed",
+      "top": "0px",
+      "left": "0px",
+      "zIndex": "100",
+      "display": "none",
+      "visibility": "visible",
+      "transform": "none",
+      "width": "auto",
+      "height": "auto",
+      "backgroundColor": "rgba(0, 0, 0, 0.5)",
+      "color": "rgb(17, 24, 39)",
+      "fontSize": "16px",
+      "borderRadius": "0px",
+      "padding": "0px"
+    },
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    }
+  },
+  "_tippyRefs": []
+}
